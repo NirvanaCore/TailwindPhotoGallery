@@ -42,6 +42,7 @@
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
+    "gh-pages": "^3.2.3",
     "postcss-cli": "^8.3.0"
   }
 }
